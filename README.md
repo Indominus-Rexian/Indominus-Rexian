@@ -1,9 +1,9 @@
 ### Hi there, It's me Indo 👋
 
 I am Indo, A student who likes to play with Python.
-For communication, I mostly spend time in Discord. You can contact me there as `Indo Rex#1371`.
+For communication, I mostly spend time in Discord. You can contact me there as `Indominus Rexian#1371`.
 
-Recently, I have been creating discord bots using discord.py lib.
+Recently, I have been creating discord bots using discord.py and pycord libs.
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Indominus-Rexian&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=synthwave"/>
